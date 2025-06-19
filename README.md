@@ -2,17 +2,17 @@ Flask To-Do List App
 A simple web-based To-Do List app built using Python, Flask, Jinja2, and SQLite. This app lets users sign up, log in, add tasks, mark them complete, and delete them.
 
 🚀 Features
-✅ User Sign Up / Log In / Log Out
+- User Sign Up / Log In / Log Out
 
-📝 Add new tasks
+- Add new tasks
 
-🕗 Mark tasks as complete/incomplete
+- Mark tasks as complete/incomplete
 
-❌ Delete individual tasks
+- Delete individual tasks
 
-🔐 User-specific task lists
+- User-specific task lists
 
-📁 Lightweight SQLite database
+- Lightweight SQLite database
 
 
 ⚙️ Installation
