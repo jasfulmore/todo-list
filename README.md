@@ -18,20 +18,20 @@ A simple web-based To-Do List app built using Python, Flask, Jinja2, and SQLite.
 # ⚙️ Installation
 Clone the repo
 
-# bash:
+bash:
 git clone https://github.com/your-username/todolist-app.git
 cd todolist-app
 
 
-# bash(create virtual enironment):
+(create virtual enironment):
 python -m venv venv
  MacOS: source venv/bin/activate     On Windows: venv\Scripts\activate
 Install dependencies
 
-# bash:
+(install requirements)
 pip install -r requirements.txt
 
-# bash(run the app):
+(run the app):
 python app.py
 Visit http://127.0.0.1:5000/ in your browser.
 
