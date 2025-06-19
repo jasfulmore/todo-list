@@ -33,6 +33,7 @@ pip install -r requirements.txt
 
 (run the app):
 python app.py
+
 Visit http://127.0.0.1:5000/ in your browser.
 
 # 🧪 Tech Stack
