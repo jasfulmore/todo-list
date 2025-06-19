@@ -49,7 +49,7 @@ Visit http://127.0.0.1:5000/ in your browser.
 - HTML/CSS (for styling)
 
 
-# ✨ Future Improvements
+# Future Improvements
 Add task due dates and reminders
 
 Support for task categories/labels
@@ -60,6 +60,6 @@ Dark mode toggle
 
 Admin dashboard (optional)
 
-# 🙋‍♀️ Contribution
+# Contribution
 Pull requests and issues are welcome! If you're learning Flask or Jinja2, feel free to fork the project and try expanding on it.
 
